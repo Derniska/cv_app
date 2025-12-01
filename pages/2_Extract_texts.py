@@ -80,26 +80,30 @@ def ocr_pdf_file(file, lang = 'eng'):
     else:
         return f'Unsupported file type: {file.type}'
         
-def summarize_text(text , max_tokens, min_tokens):
-    pipe = pipeline(
-                "text2text-generation",
-                model="google/t5gemma-b-b-prefixlm",
-                device="cuda" if torch.cuda.is_available() else "cpu",
-            )
-            
-    prompt = f""""Summarize text in key points {text}"""
-    outputs = pipe(
-        prompt,
-        max_new_tokens= max_tokens,           
-        min_new_tokens=min_tokens,            
-        repetition_penalty=2.5,       
-        length_penalty= 1.9,           
-        num_beams=4,                  
-        early_stopping=True,          
-        temperature=0.7,              
-        do_sample=True,                
-    )
-    summary = outputs[0]["generated_text"]
+def summarize_text(text , max_tokens, min_tokens, model_name):
+    if model_name == 't5gemma-b-b-prefixlm':
+        pipe = pipeline(
+                    "text2text-generation",
+                    model="google/t5gemma-b-b-prefixlm",
+                    device="cuda" if torch.cuda.is_available() else "cpu",
+                )
+                
+        prompt = f""""Summarize text in key points {text}"""
+        outputs = pipe(
+            prompt,
+            max_new_tokens= max_tokens,           
+            min_new_tokens=min_tokens,            
+            repetition_penalty=2.5,       
+            length_penalty= 1.9,           
+            num_beams=4,                  
+            early_stopping=True,          
+            temperature=0.7,              
+            do_sample=True,                
+        )
+        summary = outputs[0]["generated_text"]
+    else:
+        summarizer = pipeline("summarization", model=model_name)
+        summary = summarizer(text, max_new_tokens=200, min_new_tokens=30, do_sample=False)[0]['summary_text']
     return summary
 
 
@@ -133,12 +137,18 @@ if uploaded_file is not None:
             file.write(msg)
             
     st.markdown("--" *20)
-    if st.button('Summarize text'):
+    model = st.selectbox(
+        "Choose a model",
+        ("", "Falconsai/text_summarization",  "t5gemma-b-b-prefixlm", "sshleifer/distilbart-cnn-12-6", "knkarthick/MEETING_SUMMARY", "sshleifer/distilbart-xsum-12-6"),
+        index=0  
+    )
+    if st.button('Summarize text') and model:
+    
         with st.spinner("Summarizing your text. It may take up to 30 seconds ..."):
             try:
                 max_tokens = int(len(ocr_text.split(' ')) * 0.25)
                 min_tokens = int(len(ocr_text.split(' ')) * 0.1)
-                summary = summarize_text(ocr_text, max_tokens, min_tokens)
+                summary = summarize_text(ocr_text, max_tokens, min_tokens, model)
                 st.subheader("Summarization result:")
                 st.success(summary)
                 summary_msg = f'{datetime.datetime.now()} - File "{uploaded_file.name}" was summarized\n'
