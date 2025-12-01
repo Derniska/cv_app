@@ -1,0 +1,379 @@
+2025-10-29 09:29:28.420828 - file "Cat_November_2010-1a.jpg" got caption "a cat sitting on a wall looking at the camera"
+2025-10-29 09:29:28.820746 - file "Cat_November_2010-1a.jpg" objects detected "cat ,bed"
+2025-10-29 09:29:29.311183 - file "Cat_November_2010-1a.jpg" saved as "cats" category "a photo of cat"
+2025-10-29 09:41:19.905593 - file "Zugpsitze_mountain.jpg" got caption "a lake surrounded by mountains and flowers"
+2025-10-29 09:41:20.060297 - file "Zugpsitze_mountain.jpg" objects detected ""
+2025-10-29 09:41:20.348180 - file "Zugpsitze_mountain.jpg" saved as "nature" category "a photo of nature"
+2025-10-29 10:04:35.062331 - file "book.jpg" got caption "red book on white background"
+2025-10-29 10:04:35.219304 - file "book.jpg" objects detected "umbrella ,suitcase"
+2025-10-29 10:04:35.503692 - file "book.jpg" saved as "books" category "a photo of book"
+2025-10-29 10:18:35.927336 - file "car1.jpg" got caption "a orange lamb lamb car parked in front of a building"
+2025-10-29 10:19:22.231108 - file "car1.jpg" got caption "a orange lamb lamb car parked in front of a building"
+2025-10-29 10:19:22.428309 - file "car1.jpg" objects detected "car"
+2025-10-29 10:19:22.747642 - file "car1.jpg" saved as "transport" category "a photo of transport"
+2025-10-29 10:23:44.242330 - file "car1.jpg" got caption "a photo of a lamb lamb car parked in front of a building"
+2025-10-29 10:23:44.358477 - file "car1.jpg" objects detected "car"
+2025-10-29 10:23:44.639465 - file "car1.jpg" saved as "transport" category "a photo of transport"
+2025-10-29 10:26:17.275118 - file "football.jpg" got caption "a photo of tottenham players holding the trophy"
+2025-10-29 10:26:18.014886 - file "football.jpg" objects detected "person ,person ,person ,person ,person ,person ,person ,person ,person"
+2025-10-29 10:26:18.394186 - file "football.jpg" saved as "sports" category "a photo of sports"
+2025-10-29 10:26:23.631046 - file "football.jpg" faces foundcassel.jpeg
+2025-10-29 10:37:27.273455 - file "sream.jpg" got caption "the scream, ed edler"
+2025-10-29 10:37:27.513891 - file "sream.jpg" objects detected ""
+2025-10-29 10:37:27.813242 - file "sream.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 10:40:13.196504 - file "copacabana.jpg" got caption "a beach with many people on it"
+2025-10-29 10:40:13.356734 - file "copacabana.jpg" objects detected ""
+2025-10-29 10:40:13.641243 - file "copacabana.jpg" saved as "travel" category "a photo of travel"
+2025-10-29 10:40:14.491382 - file "copacabana.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 10:45:01.740114 - file "north_pole.jpg" got caption "a painting of icebergs in the arctic"
+2025-10-29 10:45:02.058341 - file "north_pole.jpg" objects detected "person ,person ,person"
+2025-10-29 10:45:02.351077 - file "north_pole.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 10:45:03.241933 - file "north_pole.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 10:52:54.169509 - file "iphone.jpg" got caption "the new iphone 11 is shown in an orange color"
+2025-10-29 10:52:54.547872 - file "iphone.jpg" objects detected "cell phone"
+2025-10-29 10:52:54.916037 - file "iphone.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 10:52:56.084807 - file "iphone.jpg" no known faces found
+2025-10-29 10:55:50.680408 - file "iphone.jpg" got caption "the new iphone 11 is shown in an orange color"
+2025-10-29 10:55:51.018633 - file "iphone.jpg" objects detected "cell phone"
+2025-10-29 10:55:51.381346 - file "iphone.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 10:55:52.540280 - file "iphone.jpg" no known faces found
+2025-10-29 10:56:40.818245 - file "iphone.jpg" got caption "the new iphone 11 is shown in an orange color"
+2025-10-29 10:56:41.186845 - file "iphone.jpg" objects detected "cell phone"
+2025-10-29 10:56:41.555006 - file "iphone.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 10:56:42.727723 - file "iphone.jpg" no known faces found
+2025-10-29 11:03:24.237484 - file "iphone.jpg" got caption "the iphone 11 is shown in pink and white"
+2025-10-29 11:03:24.429771 - file "iphone.jpg" objects detected "cell phone"
+2025-10-29 11:03:24.730737 - file "iphone.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 11:03:25.020703 - file "iphone.jpg" no known faces found
+2025-10-29 11:06:07.046680 - file "cambridge.jpg" got caption "a large green lawn"
+2025-10-29 11:06:07.215433 - file "cambridge.jpg" objects detected ""
+2025-10-29 11:06:07.510850 - file "cambridge.jpg" saved as "architecture" category "a photo of architecture"
+2025-10-29 11:06:07.901486 - file "cambridge.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 13:52:07.389966 - the content of the file "book_page.jpg" was successfully recognized 
+2025-10-29 14:06:06.098867 - the content of the file "annie-spratt-askpr0s66Rg-unsplash.jpg" was successfully recognized
+2025-10-29 14:08:59.764795 - file "ana_de_armas.jpg" got caption "lily pomer at the premiere of the film ' s"
+2025-10-29 14:08:59.928600 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 14:09:00.226670 - file "ana_de_armas.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 14:12:13.041155 - file "ana_de_armas.jpg" got caption "lily pomer at the premiere of the film ' s"
+2025-10-29 14:12:13.212278 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 14:12:13.511620 - file "ana_de_armas.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 14:13:59.215443 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 14:13:59.398154 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 14:13:59.689893 - file "ana_de_armas.jpg" saved as "people" category "a photo of person"
+2025-10-29 14:15:33.138482 - file "window.jpg" got caption "a window seat in a bedroom with a view"
+2025-10-29 14:15:33.334465 - file "window.jpg" objects detected "cat"
+2025-10-29 14:15:33.641543 - file "window.jpg" saved as "windows" category "a photo of window"
+2025-10-29 14:15:33.981880 - file "window.jpg" no known faces found
+2025-10-29 14:17:44.886351 - file "concert.jpg" got caption "the band, the band, performing at the festival"
+2025-10-29 14:17:45.534278 - file "concert.jpg" objects detected "person ,person ,person ,person ,person ,person ,person ,person ,person ,person"
+2025-10-29 14:18:23.168681 - file "concert.jpg" got caption "the band, the band, performing at the festival"
+2025-10-29 14:18:23.808781 - file "concert.jpg" objects detected "person ,person ,person ,person ,person ,person ,person ,person ,person ,person"
+2025-10-29 14:18:24.175380 - file "concert.jpg" saved as "concert" category "a photo of a concert"
+2025-10-29 14:18:26.551419 - file "concert.jpg" no known faces found
+2025-10-29 14:24:37.224556 - file "angry.jpg" got caption "a man with a beard and a beard is screaming"
+2025-10-29 14:24:37.415427 - file "angry.jpg" objects detected "person"
+2025-10-29 14:24:37.717104 - file "angry.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 14:24:38.344446 - file "angry.jpg" no known faces found
+2025-10-29 14:36:17.193895 - file "angry.jpg" got caption "a man with a beard and a beard is screaming"
+2025-10-29 14:36:17.332188 - file "angry.jpg" objects detected "person"
+2025-10-29 14:36:17.628103 - file "angry.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 14:36:18.220759 - file "angry.jpg" no known faces found
+2025-10-29 14:44:07.769862 - file "sream.jpg" got caption "the scream, ed edler"
+2025-10-29 14:44:07.974155 - file "sream.jpg" objects detected ""
+2025-10-29 14:44:08.292046 - file "sream.jpg" saved as "art" category "a photo of art"
+2025-10-29 14:45:54.098720 - file "sream.jpg" got caption "the scream, ed edler"
+2025-10-29 14:45:54.282918 - file "sream.jpg" objects detected ""
+2025-10-29 14:45:54.576860 - file "sream.jpg" saved as "art" category "a photo of art"
+2025-10-29 14:46:17.196236 - file "book.jpg" got caption "red book on white background"
+2025-10-29 14:46:17.328998 - file "book.jpg" objects detected ""
+2025-10-29 14:46:17.614362 - file "book.jpg" saved as "books" category "a photo of book"
+2025-10-29 14:46:17.965413 - file "book.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 14:49:29.690973 - file "book.jpg" got caption "red book on white background"
+2025-10-29 14:49:29.824803 - file "book.jpg" objects detected ""
+2025-10-29 14:49:30.116705 - file "book.jpg" saved as "books" category "a photo of book"
+2025-10-29 14:49:30.478355 - file "book.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 14:50:37.355200 - file "book.jpg" got caption "red book on white background"
+2025-10-29 14:50:37.506443 - file "book.jpg" objects detected ""
+2025-10-29 14:50:37.788516 - file "book.jpg" saved as "books" category "a photo of book"
+2025-10-29 14:50:38.137393 - file "book.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 14:55:41.444362 - file "angry.jpg" got caption "a man with a beard and a beard is screaming"
+2025-10-29 14:55:41.579478 - file "angry.jpg" objects detected "person"
+2025-10-29 14:55:41.869718 - file "angry.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 14:55:42.484460 - file "angry.jpg" no known faces found
+2025-10-29 14:57:31.490416 - file "sad.jpg" got caption "a man sitting on a bench"
+2025-10-29 14:57:31.634526 - file "sad.jpg" objects detected "person"
+2025-10-29 14:57:31.937858 - file "sad.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 15:18:59.707298 - file "sad.jpg" got caption "a man sitting on a bench"
+2025-10-29 15:18:59.859584 - file "sad.jpg" objects detected "person"
+2025-10-29 15:19:00.163451 - file "sad.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 15:19:00.513937 - file "sad.jpg" faces found/
+2025-10-29 15:22:01.639013 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:22:01.864027 - file "happy.jpg" objects detected "person"
+2025-10-29 15:22:02.167400 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:22:02.517585 - file "happy.jpg" faces found/
+2025-10-29 15:24:55.448268 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:24:55.604459 - file "happy.jpg" objects detected "person"
+2025-10-29 15:24:55.902161 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:24:56.217854 - file "happy.jpg" faces found/
+2025-10-29 15:26:02.455935 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:26:02.625810 - file "happy.jpg" objects detected "person"
+2025-10-29 15:26:03.007045 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:26:03.341811 - file "happy.jpg" no known faces found
+2025-10-29 15:26:37.799852 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:26:37.955819 - file "happy.jpg" objects detected "person"
+2025-10-29 15:26:38.253181 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:26:38.568271 - file "happy.jpg" no known faces found
+2025-10-29 15:27:09.672574 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:27:09.827674 - file "happy.jpg" objects detected "person"
+2025-10-29 15:27:10.132798 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:27:10.448624 - file "happy.jpg" faces found/
+2025-10-29 15:27:43.790648 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:27:43.944928 - file "happy.jpg" objects detected "person"
+2025-10-29 15:27:44.236482 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:27:44.552011 - file "happy.jpg" faces found/home/jovyan/dlba/dlba_course_miba_25/topic_09/app/data/db/anne_hathaway.jpeg
+2025-10-29 15:28:11.128257 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:28:11.291183 - file "happy.jpg" objects detected "person"
+2025-10-29 15:28:11.574656 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:28:11.890039 - file "happy.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 15:29:14.731721 - file "vensan_cassel.jpg" got caption "a man with curly hair"
+2025-10-29 15:29:14.965796 - file "vensan_cassel.jpg" objects detected "person"
+2025-10-29 15:29:15.296908 - file "vensan_cassel.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:29:15.630578 - file "vensan_cassel.jpg" faces foundcassel.jpeg
+2025-10-29 15:30:08.330478 - file "sad.jpg" got caption "a woman with her head in her hands"
+2025-10-29 15:30:08.513784 - file "sad.jpg" objects detected "person"
+2025-10-29 15:30:08.820818 - file "sad.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:30:09.533825 - file "sad.jpg" no known faces found
+2025-10-29 15:36:16.307700 - file "sad.jpg" got caption "a woman with her head in her hands"
+2025-10-29 15:36:16.469949 - file "sad.jpg" objects detected "person"
+2025-10-29 15:36:16.763407 - file "sad.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:36:17.479272 - file "sad.jpg" no known faces found
+2025-10-29 15:42:31.902535 - file "sad.jpg" got caption "a woman with her head in her hands"
+2025-10-29 15:42:32.069037 - file "sad.jpg" objects detected "person"
+2025-10-29 15:42:32.358184 - file "sad.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:42:33.100383 - file "sad.jpg" no known faces found
+2025-10-29 15:42:40.521987 - file "sad.jpg" got caption "a woman with her head in her hands"
+2025-10-29 15:42:40.681353 - file "sad.jpg" objects detected "person"
+2025-10-29 15:42:40.961222 - file "sad.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:42:41.671551 - file "sad.jpg" no known faces found
+2025-10-29 15:44:23.602527 - file "scared.jpg" got caption "a woman is looking up and making a funny face"
+2025-10-29 15:44:23.730587 - file "scared.jpg" objects detected "person"
+2025-10-29 15:44:24.067990 - file "scared.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 15:44:24.433558 - file "scared.jpg" no known faces found
+2025-10-29 15:45:06.454742 - file "scared.jpg" got caption "a woman is looking up and making a funny face"
+2025-10-29 15:45:06.595327 - file "scared.jpg" objects detected "person"
+2025-10-29 15:45:06.890732 - file "scared.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:45:07.250568 - file "scared.jpg" no known faces found
+2025-10-29 15:45:29.636935 - file "vensan_cassel.jpg" got caption "a man with curly hair"
+2025-10-29 15:45:29.791635 - file "vensan_cassel.jpg" objects detected "person"
+2025-10-29 15:45:30.079566 - file "vensan_cassel.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:45:30.423380 - file "vensan_cassel.jpg" faces foundcassel.jpeg
+2025-10-29 15:55:37.515083 - file "vensan_cassel.jpg" got caption "a man with curly hair"
+2025-10-29 15:55:37.659390 - file "vensan_cassel.jpg" objects detected "person"
+2025-10-29 15:55:37.951937 - file "vensan_cassel.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:55:38.281044 - file "vensan_cassel.jpg" faces foundcassel.jpeg
+2025-10-29 15:56:34.505064 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 15:56:34.649563 - file "happy.jpg" objects detected "person"
+2025-10-29 15:56:34.958145 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 15:56:35.277995 - file "happy.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 15:57:44.605494 - file "scared.jpg" got caption "a woman sitting on a bed talking on a cell"
+2025-10-29 15:57:44.728529 - file "scared.jpg" objects detected "person"
+2025-10-29 15:57:45.031509 - file "scared.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 15:57:45.345421 - file "scared.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 15:57:45.938883 - file "scared.jpg" emotion detectedfear
+2025-10-29 16:08:01.432315 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 16:08:01.603019 - file "happy.jpg" objects detected "person"
+2025-10-29 16:08:01.924236 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:08:02.247529 - file "happy.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 16:08:02.903974 - file "happy.jpg" emotion detected happy
+2025-10-29 16:08:27.616894 - file "scared.jpg" got caption "a woman sitting on a bed talking on a cell"
+2025-10-29 16:08:27.740644 - file "scared.jpg" objects detected "person"
+2025-10-29 16:08:28.044969 - file "scared.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 16:08:28.353101 - file "scared.jpg" faces foundanne_hathaway.jpeg
+2025-10-29 16:08:28.941859 - file "scared.jpg" emotion detected fear
+2025-10-29 16:08:53.368605 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 16:08:53.531383 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 16:08:53.851157 - file "ana_de_armas.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:08:54.416493 - file "ana_de_armas.jpg" faces foundana_de_armas1.jpeg
+2025-10-29 16:08:55.265306 - file "ana_de_armas.jpg" emotion detected neutral
+2025-10-29 16:10:42.735087 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 16:10:42.910171 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 16:10:43.230172 - file "ana_de_armas.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:11:50.343953 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 16:11:50.492348 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 16:11:50.757894 - file "ana_de_armas.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:11:51.371719 - file "ana_de_armas.jpg" faces foundana_de_armas1
+2025-10-29 16:11:52.211496 - file "ana_de_armas.jpg" emotion detected neutral
+2025-10-29 16:12:31.533724 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 16:12:31.692560 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 16:12:31.963820 - file "ana_de_armas.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:12:32.573027 - file "ana_de_armas.jpg" faces foundana_de_armas1
+2025-10-29 16:12:33.437056 - file "ana_de_armas.jpg" emotion detected neutral
+2025-10-29 16:13:50.956514 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 16:13:51.123092 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 16:13:51.432997 - file "ana_de_armas.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:13:52.004606 - file "ana_de_armas.jpg" faces foundana_de_armas1
+2025-10-29 16:13:52.909051 - file "ana_de_armas.jpg" emotion detected neutral
+2025-10-29 16:14:57.416200 - file "ana_de_armas.jpg" got caption "lily tsn at the premiere of the last days"
+2025-10-29 16:14:57.551031 - file "ana_de_armas.jpg" objects detected "person"
+2025-10-29 16:14:57.839535 - file "ana_de_armas.jpg" saved as "person" category "a photo of person"
+2025-10-29 16:14:58.398716 - file "ana_de_armas.jpg" faces foundana_de_armas1
+2025-10-29 16:14:59.238666 - file "ana_de_armas.jpg" emotion detected neutral
+2025-10-29 16:23:21.941386 - file "batlio.jpg.jpg" got caption "a building with a clock on the side of it"
+2025-10-29 16:23:23.593995 - file "batlio.jpg.jpg" objects detected "person ,person ,person ,person ,person"
+2025-10-29 16:23:24.321498 - file "batlio.jpg.jpg" saved as "architecture" category "a photo of architecture"
+2025-10-29 16:23:35.709198 - file "batlio.jpg.jpg" faces foundanne_hathaway
+2025-10-29 16:23:47.152511 - file "batlio.jpg.jpg" emotion detected happy
+2025-10-29 16:27:59.799970 - file "coliseum.jpg" got caption "the col col col col col col col col col col col col col col col col col col col"
+2025-10-29 16:27:59.914226 - file "coliseum.jpg" objects detected ""
+2025-10-29 16:28:00.223033 - file "coliseum.jpg" saved as "travel" category "a photo of travel"
+2025-10-29 16:28:00.758017 - file "coliseum.jpg" faces foundanne_hathaway
+2025-10-29 16:28:01.370738 - file "coliseum.jpg" emotion detected happy
+2025-10-29 16:29:46.490362 - file "opera.jpg" got caption "sydney opera opera opera opera opera opera opera opera opera opera opera opera opera opera opera opera opera opera opera"
+2025-10-29 16:29:46.670200 - file "opera.jpg" objects detected ""
+2025-10-29 16:29:46.988860 - file "opera.jpg" saved as "architecture" category "a photo of architecture"
+2025-10-29 16:29:47.513550 - file "opera.jpg" faces foundanne_hathaway
+2025-10-29 16:29:48.120639 - file "opera.jpg" emotion detected fear
+2025-10-29 16:35:44.664848 - file "sream.jpg" got caption "the scream, ed edler"
+2025-10-29 16:35:44.869805 - file "sream.jpg" objects detected ""
+2025-10-29 16:35:45.177312 - file "sream.jpg" saved as "art" category "a photo of art"
+2025-10-29 16:35:47.364478 - file "sream.jpg" faces foundpaul_mescal ,paul_mescal
+2025-10-29 16:35:50.132112 - file "sream.jpg" emotion detected happy
+2025-10-29 16:38:52.968291 - file "guernica.jpg" got caption "a mural of people on a wall"
+2025-10-29 16:38:53.224292 - file "guernica.jpg" objects detected "clock"
+2025-10-29 16:38:53.525365 - file "guernica.jpg" saved as "art" category "a photo of art"
+2025-10-29 16:38:55.487503 - file "guernica.jpg" faces foundanne_hathaway
+2025-10-29 16:38:57.522520 - file "guernica.jpg" emotion detected happy
+2025-10-29 16:43:09.727599 - file "book.jpg" got caption "red book on white background"
+2025-10-29 16:43:09.864795 - file "book.jpg" objects detected ""
+2025-10-29 16:43:10.162365 - file "book.jpg" saved as "books" category "a photo of book"
+2025-10-29 16:43:10.706355 - file "book.jpg" faces foundanne_hathaway
+2025-10-29 16:43:11.330349 - file "book.jpg" emotion detected sad
+2025-10-29 16:44:45.250461 - file "concert.jpg" got caption "the band, the band, performing at the festival"
+2025-10-29 16:44:45.912584 - file "concert.jpg" objects detected "person ,person ,person ,person ,person ,person ,person ,person ,person ,person"
+2025-10-29 16:44:46.295391 - file "concert.jpg" saved as "concert" category "a photo of a concert"
+2025-10-29 16:44:48.691804 - file "concert.jpg" no known faces found
+2025-10-29 16:44:51.365094 - file "concert.jpg" emotion detected sad
+2025-10-29 16:48:51.769536 - file "gaudi.jpg" got caption "a black and white photo of a man with a beard"
+2025-10-29 16:48:52.509711 - file "gaudi.jpg" objects detected "person"
+2025-10-29 16:48:53.048463 - file "gaudi.jpg" saved as "person" category "a photo of person"
+2025-10-29 17:03:47.569096 - file "headphones.jpg" got caption "the beats on ear headphones are available in white"
+2025-10-29 17:03:47.720183 - file "headphones.jpg" objects detected ""
+2025-10-29 17:03:48.005661 - file "headphones.jpg" saved as "headphones" category "a photo of headphones"
+2025-10-29 17:03:48.290167 - file "headphones.jpg" no known faces found
+2025-10-29 17:03:48.859845 - file "headphones.jpg" emotion detected happy
+2025-10-29 17:05:46.301323 - file "football.jpg" got caption "tottenham players celebrate with the trophy after winning the fa cup"
+2025-10-29 17:05:46.944504 - file "football.jpg" objects detected "person ,person ,person ,person ,person ,person ,person ,person ,person"
+2025-10-29 17:05:47.329899 - file "football.jpg" saved as "sports" category "a photo of sports"
+2025-10-29 17:05:52.563564 - file "football.jpg" faces foundcassel
+2025-10-29 17:06:01.220415 - file "football.jpg" emotion detected happy
+2025-10-29 17:08:52.749483 - file "car1.jpg" got caption "a orange lamb lamb car parked in front of a building"
+2025-10-29 17:08:53.014269 - file "car1.jpg" objects detected "car"
+2025-10-29 17:08:53.317488 - file "car1.jpg" saved as "transport" category "a photo of transport"
+2025-10-29 17:08:53.855108 - file "car1.jpg" faces foundanne_hathaway
+2025-10-29 17:08:54.445285 - file "car1.jpg" emotion detected happy
+2025-10-29 17:11:04.901319 - file "plane.jpg" got caption "a plane flying in the sky"
+2025-10-29 17:11:05.374210 - file "plane.jpg" objects detected "airplane"
+2025-10-29 17:11:05.821029 - file "plane.jpg" saved as "travel" category "a photo of travel"
+2025-10-29 17:11:08.138099 - file "plane.jpg" faces foundanne_hathaway
+2025-10-29 17:11:10.587226 - file "plane.jpg" emotion detected fear
+2025-10-29 17:13:40.111245 - file "copacabana.jpg" got caption "a beach with many people on it"
+2025-10-29 17:13:40.281421 - file "copacabana.jpg" objects detected ""
+2025-10-29 17:13:40.613536 - file "copacabana.jpg" saved as "travel" category "a photo of travel"
+2025-10-29 17:13:41.649622 - file "copacabana.jpg" faces foundanne_hathaway
+2025-10-29 17:13:42.819917 - file "copacabana.jpg" emotion detected neutral
+2025-10-29 17:15:50.155452 - file "window.jpg" got caption "a window seat in a bedroom with a view"
+2025-10-29 17:15:50.372020 - file "window.jpg" objects detected "cat"
+2025-10-29 17:15:50.688108 - file "window.jpg" saved as "windows" category "a photo of window"
+2025-10-29 17:15:51.019097 - file "window.jpg" no known faces found
+2025-10-29 17:15:51.640679 - file "window.jpg" emotion detected neutral
+2025-10-29 17:25:53.513900 - file "cars.jpg" got caption "the building is yellow and white"
+2025-10-29 17:25:53.663563 - file "cars.jpg" objects detected "car ,car ,car ,car ,car ,car"
+2025-10-29 17:25:54.020481 - file "cars.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 17:25:54.533687 - file "cars.jpg" faces foundanne_hathaway
+2025-10-29 17:25:55.141234 - file "cars.jpg" emotion detected happy
+2025-10-29 17:29:24.526544 - file "dogs.jpg" got caption "a group of dogs sitting on a gravel road"
+2025-10-29 17:29:27.163523 - file "dogs.jpg" objects detected "dog ,dog ,dog ,dog ,dog ,dog ,dog ,dog ,dog ,dog"
+2025-10-29 17:29:27.976451 - file "dogs.jpg" saved as "party" category "a photo of a party"
+2025-10-29 17:29:51.359169 - file "dogs.jpg" faces foundpaul_mescal ,paul_mescal ,paul_mescal ,paul_mescal ,paul_mescal ,paul_mescal ,anne_hathaway ,anne_hathaway
+2025-10-29 17:30:16.338642 - file "dogs.jpg" emotion detected happy
+2025-10-29 17:32:34.531376 - file "angry.jpg" got caption "a man with a beard and a beard is screaming"
+2025-10-29 17:32:34.674054 - file "angry.jpg" objects detected "person"
+2025-10-29 17:32:34.964853 - file "angry.jpg" saved as "person" category "a photo of person"
+2025-10-29 17:32:35.578573 - file "angry.jpg" no known faces found
+2025-10-29 17:32:36.466350 - file "angry.jpg" emotion detected angry
+2025-10-29 17:34:39.943109 - file "sad.jpg" got caption "a woman with her head in her hands"
+2025-10-29 17:34:40.133520 - file "sad.jpg" objects detected "person"
+2025-10-29 17:34:40.428446 - file "sad.jpg" saved as "person" category "a photo of person"
+2025-10-29 17:34:41.146005 - file "sad.jpg" no known faces found
+2025-10-29 17:34:42.150673 - file "sad.jpg" emotion detected sad
+2025-10-29 17:36:54.628476 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-10-29 17:36:54.871482 - file "happy.jpg" objects detected "person"
+2025-10-29 17:36:55.167557 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-10-29 17:36:55.671434 - file "happy.jpg" faces foundanne_hathaway
+2025-10-29 17:36:56.274290 - file "happy.jpg" emotion detected happy
+2025-10-29 17:40:57.629049 - file "vensan_cassel.jpg" got caption "a man with curly hair"
+2025-10-29 17:40:57.865972 - file "vensan_cassel.jpg" objects detected "person"
+2025-10-29 17:40:58.155221 - file "vensan_cassel.jpg" saved as "person" category "a photo of person"
+2025-10-29 17:40:58.542295 - file "vensan_cassel.jpg" faces foundcassel
+2025-10-29 17:40:59.157881 - file "vensan_cassel.jpg" emotion detected happy
+2025-10-29 17:42:26.072250 - file "sad_ana.jpg" got caption "a woman in a sweater looks at another"
+2025-10-29 17:42:26.279512 - file "sad_ana.jpg" objects detected "person ,person"
+2025-10-29 17:42:26.594809 - file "sad_ana.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 17:42:27.602264 - file "sad_ana.jpg" faces foundana_de_armas2
+2025-10-29 17:42:28.736319 - file "sad_ana.jpg" emotion detected sad
+2025-10-29 17:45:23.021198 - file "angry_paul.jpg" got caption "a man in a costume"
+2025-10-29 17:45:23.189640 - file "angry_paul.jpg" objects detected "person ,person ,person"
+2025-10-29 17:45:23.469476 - file "angry_paul.jpg" saved as "other" category "a photo of unknown stuff"
+2025-10-29 17:45:24.045370 - file "angry_paul.jpg" faces foundanne_hathaway
+2025-10-29 17:45:24.674256 - file "angry_paul.jpg" emotion detected neutral
+2025-10-29 17:47:14.229895 - the content of the file "book_page.jpg" was successfully recognized
+2025-10-29 17:55:15.126044 - the content of the file "tezisy.pdf" was successfully recognized
+2025-10-29 17:55:26.588189 - the content of the file "tezisy.pdf" was successfully recognized
+2025-11-29 17:58:57.269715 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 17:59:06.093333 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 17:59:33.227418 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 17:59:38.874768 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:00:21.842806 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:00:26.216159 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:03:26.792688 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:03:33.196549 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:04:13.819783 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:04:17.603806 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:04:30.644479 - File "aiwplain1.jpg" was summarized
+2025-11-29 18:05:04.067972 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:05:19.266150 - File "aiwplain1.jpg" was summarized
+2025-11-29 18:07:10.328560 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:07:41.856764 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:07:49.237725 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:08:01.834671 - File "aiwplain1.jpg" was summarized
+2025-11-29 18:09:00.295753 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:09:03.971769 - the content of the file "aiwplain1.jpg" was successfully recognized
+2025-11-29 18:09:16.408318 - File "aiwplain1.jpg" was summarized
+2025-11-30 20:47:31.619838 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-11-30 20:47:31.834667 - file "happy.jpg" objects detected "person"
+2025-11-30 20:47:32.129278 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-11-30 20:47:54.195685 - file "happy.jpg" faces foundanne_hathaway
+2025-11-30 20:47:57.750102 - file "happy.jpg" emotion detected happy
+2025-11-30 20:49:16.533151 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-11-30 20:49:16.678960 - file "happy.jpg" objects detected "person"
+2025-11-30 20:49:16.936436 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-11-30 20:50:51.247720 - file "happy.jpg" got caption "a woman in a white dress and black shoes"
+2025-11-30 20:50:51.396575 - file "happy.jpg" objects detected "person"
+2025-11-30 20:50:51.632881 - file "happy.jpg" saved as "person" category "a photo of person"
+2025-11-30 20:50:52.098570 - file "happy.jpg" faces foundanne_hathaway.jpeg
+2025-11-30 20:50:52.596450 - file "happy.jpg" emotion detected happy
+2025-11-30 20:51:18.978569 - file "car1.jpg" got caption "a orange lamb lamb car parked in front of a building"
+2025-11-30 20:51:19.120619 - file "car1.jpg" objects detected "car"
+2025-11-30 20:51:19.385299 - file "car1.jpg" saved as "transport" category "a photo of transport"
+2025-11-30 20:56:22.936982 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 20:56:29.631419 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 20:57:12.421285 - File "summarization.pdf" was summarized
+2025-11-30 21:01:31.922378 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 21:01:36.964400 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 21:02:05.236337 - File "summarization.pdf" was summarized
+2025-11-30 21:05:58.745184 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 21:06:04.538044 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 21:06:26.240629 - File "summarization.pdf" was summarized
+2025-11-30 21:07:40.778636 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 21:07:44.544996 - the content of the file "summarization.pdf" was successfully recognized
+2025-11-30 21:08:06.114845 - File "summarization.pdf" was summarized
